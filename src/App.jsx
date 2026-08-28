@@ -1,3 +1,4 @@
+import React from 'react';
 import { useState, useEffect, useMemo } from "react";
 import {
   Users, ChefHat, ShoppingCart, Dumbbell, Plus, Trash2, Loader2,
